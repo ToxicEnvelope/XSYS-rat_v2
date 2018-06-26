@@ -1,0 +1,10 @@
+# exclude all below
+
+/*
+*/__pycach__
+.gitignore
+
+
+# not excluded
+!/server
+!/client
